@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Technical Documentation Page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <header class="nav-header">Navigation Javascript</header>
+      <a class="nav-link" href="#introduction">Introduction</a>
+      <a class="nav-link" href="#what_you_should_know">What you should know</a>
+      <a class="nav-link" href="#javascript">Javascript</a>
+      <a class="nav-link" href="#hello_world">Hello World</a>
+      <a class="nav-link" href="#data_types">Data Types</a>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="introduction">
+        <header class="section-header">Introduction</header>
+        <p class="section_p">Some text</p>
+        <p class="section_p">Some text</p>
+        <p class="section_p">Some text</p>
+        <ul>
+          <li>List Content</li>
+          <li>List Content</li>
+          <li>List Content</li>
+        </ul>
+        <code> .....Code Here.....</code>
+        <code> .....Code Here.....</code>
+      </section>
+      <section class="main-section" id="what_you_should_know">
+        <header class="section-header">What you should  know</header id="what_you_should_know">
+        <p class="section_p">Some text</p>
+        <p class="section_p">Some text</p>
+               <ul>
+          <li>List Content</li>
+          <li>List Content</li>
+          <li>List Content</li>
+        </ul>
+        <code> .....Code Here.....</code>
+        <code> .....Code Here.....</code>
+      </section>
+      <section class="main-section" id="javascript">
+        <header class="section-header" id="javascript">Javascript</header>
+        <p class="section_p">Some text</p>
+        <p class="section_p">Some text</p>
+        <code> .....Code Here.....</code>
+        <code> .....Code Here.....</code>
+      </section>
+      <section class="main-section" id="hello_world">
+        <header class="section-header" id="hello_world">Hello World</header>
+        <p class="section_p">Some text</p>
+        <p class="section_p">Some text</p>
+        <code> .....Code Here.....</code>
+        <code> .....Code Here.....</code>
+      </section>
+      <section class="main-section" id="data_types">
+        <header class="section-header" id="data_types">Data Types</header>
+        <p class="section_p">Some text</p>
+        <p class="section_p">Some text</p>
+               <ol>
+          <li>List Content</li>
+          <li>List Content</li>
+          <li>List Content</li>
+        </ol>
+        <code> .....Code Here.....</code>
+        <code> .....Code Here.....</code>
+      </section>
+    </main>
+  </body>
+  </html>
